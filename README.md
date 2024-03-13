@@ -1,4 +1,4 @@
-# Counter
+# Our Team
 
 ![HTML](https://img.shields.io/badge/HTML-fc4f13) ![CSS](https://img.shields.io/badge/CSS-306af1) ![Vanilla javascript](https://img.shields.io/badge/Vanilla%20Javascript-f7e025)
 
