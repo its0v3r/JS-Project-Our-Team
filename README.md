@@ -11,3 +11,6 @@ This project is heavily based on John Smilga's Reviews project on his HTML/CSS/J
 
 -   Click on next or previous button to see other members from the team,;
 -   Clicking "surprise me" will show a random member of the team;
+
+# Project demo
+[Click here](https://its0v3r-js-project-our-team.netlify.app/html/) to check a demo of this project!
